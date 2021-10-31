@@ -2,6 +2,5 @@
   "active-version": "4.20.4",
   "cli-version": "1.18.0",
   "channel": "stable",
-  "name": "ghost-local-1",
-  "running": "development"
+  "name": "ghost-local-1"
 }
